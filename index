@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página principal</title>
+</head>
+<body>
+
+<header>
+
+    <h1 id="top"> <u>Exemplo de uma matéria</u></h1>
+    <hr>
+    <h2> Por onde devo começar na programação </h2>
+    <p> O texto original pode ser acessado <a href="https://www.dio.me/articles/por-onde-devo-comecar-na-programacao" target="_blank">aqui</a> </p>
+</a></p>
+    <h4>#Estrutura de dados </br>
+        #Informática Básica </br>
+        #Lógica de Programação</h4>
+</header>
+<main>
+    <h3>Sumário</h3>
+    <ol>
+        <li><a href="#sum1">Introdução</a> </li>    
+        <li><a href="#sum2">Saber matemática é obrigatório?</a> </li>
+        <li><a href="#sum3">Onde se usa a matemática na programação?</a> </li>
+        <li><a href="#sum4">É preciso ter um diploma de graduação?</a> </li>
+        <li><a href="#sum5">A escolha da escola</a> </li>
+        <li><a href="#sum6">Devo fazer uma graduação para cada área que eu quero seguir?</a> </li>
+        <li><a href="#sum7">Qual área eu devo seguir?</a> </li>
+        <li><a href="#sum8">Conclusão</a> </li>
+    </ol>
+<div>
+    <h2 id="sum1">Introdução</h2>
+    <small><a href="#top">(Voltar ao inicio)</a></small>
+    <p>Pois é, pessoal.
+        Eu tenho visto muita gente aqui preocupada com os caminhos que deve seguir no seu aprendizado de programação, principalmente os iniciantes e aqueles em transição de carreira.
+        Eu tenho <mark >61 anos</mark> e já passei por muita coisa nessa área de programação, já tive todas estas dúvidas e fiz muitas escolhas, algumas repetiria sem problema, em outras, faria tudo diferente.   
+        Portanto, o que eu vou escrever daqui em diante se trata das minhas experiências pessoais e minhas opiniões sobre os assuntos tratados.
+        Muita coisa deu certo pra mim, mas cada um tem suas próprias bagagens, modo de agir e metas, portanto, as opiniões podem ser bem diferentes das minhas.
+    </p>
+    </div>
+<div>
+    <h2 id="sum2">Saber matemática é obrigatório?</h2>
+    <small><a href="#top">(Voltar ao inicio)</a></small>
+    <p>
+        Se o planejamento da carreira envolve trabalhar com desenvolvimento ou programação, é bom que o foco da preparação seja este, sem perder tempo com conteúdos desnecessários ou superdimensionados para a área.
+        Vou dar um exemplo: tem gente perguntando se precisa saber ou fazer um curso de matemática antes de começar a aprender programação. Alguns usuários acham que é preciso saber antecipadamente funções, álgebra, cálculo, estatística, lógica matemática, gráficos, essas coisas, para facilitar o aprendizado.
+        Na verdade, a matemática necessária para se aprender a programar é muito básica, do ensino médio mesmo. Não é preciso fazer antes uma graduação em matemática (que dura 4 anos e foca em muita teoria desnecessária para a programação), a não ser que você deseje ensinar a matéria (Licenciatura) ou seguir carreira de pesquisa acadêmica em matemática (Bacharelado).   
+    </p>
+
+</div>
+<div>
+<h2 id="sum3">Onde se usa a matemática na programação?</h2>
+    <small><a href="#top">(Voltar ao inicio)</a></small>
+    <p>Pois é, pessoal.
+        A programação é cheia de elementos associados com estes conceitos, mas o entendimento deles vem no tempo certo, de acordo com cada funcionalidade aprendida.
+
+        O uso mais comum da matemática na programação são as operações aritméticas básicas (soma, subtração, multiplicação e divisão) além de potenciação, porcentagem e outras simples assim.
+    </p>
+    </div>
+<div><h2 id="sum4">O preciso ter um diploma de graduação?</h2>
+    <small><a href="#top">(Voltar ao inicio)</a></small>
+    <p>Atualmente, um diploma de graduação <i>(ou até pós-graduação)</i> pode não ser exigido para a contratação de um bom profissional em desenvolvimento, mas é um bom diferencial, principalmente em grandes empresas de renome internacional, como as do DIO Global.
+
+        Muitas vezes, bastam certificados de comprovação de cursos requeridos realizados, <strong>bom portfólio</strong> , uma prova prática e uma boa entrevista para o candidato ganhar a vaga.
+        Eu tenho visto muita gente aqui preocupada com os caminhos que deve seguir no seu aprendizado de programação, principalmente os iniciantes e aqueles em transição de carreira.
+        Eu tenho 61 anos e já passei por muita coisa nessa área de programação, já tive todas estas dúvidas e fiz muitas escolhas, algumas repetiria sem problema, em outras, faria tudo diferente.   
+        Portanto, o que eu vou escrever daqui em diante se trata das minhas experiências pessoais e minhas opiniões sobre os assuntos tratados.
+        Muita coisa deu certo pra mim, mas cada um tem suas próprias bagagens, modo de agir e metas, portanto, as opiniões podem ser bem diferentes das minhas.
+    </p>
+    </div>
+<div><h2 id="sum5">A escolha da escola</h2>
+     <small><a href="#top">(Voltar ao inicio)</a></small>
+    <p>Primeiro, a gente deve procurar as oportunidades gratuitas de ensino de qualidade, caso não encontre, se procuram aquelas de qualidade e pagas.
+
+        Em geral, as faculdades e universidades pagas são muito caras para o estudante comum e existem alternativas excelentes de instituições de ensino gratuito que são semelhantes (e até melhores) às pagas mais conhecidas.
+        
+        Exemplos bons são as <abbr title="Universidades Federais">UF</abbr> e os <abbr title="Institutos Federais">IF</abbr> .
+    </p>
+    </div>
+  <div><h2 id="sum6">Devo fazer uma graduação para cada área que eu quero seguir?</h2>
+        <small><a href="#top">(Voltar ao inicio)</a></small>
+       <p>Eu já fui professor e é senso comum (e recomendável!) que o aluno dedique de 1 a duas horas de estudo fora da sala de aula para cada hora de aula na escola, seja revendo os conceitos ou realizando atividades práticas.
+
+        Fazer, ao mesmo tempo, mais de um curso de graduação, pode não ser uma boa escolha de foco. Fazer 2 cursos em paralelo pode resultar em pouco tempo fora da escola para embasar os conhecimentos vistos em aula em um curso ou em ambos. Além disso, o tempo fora da sala usado para um dos cursos pode reduzir o tempo de aula do outro curso, ou seja, um deles vai atrasar o outro.
+        
+        Na minha opinião, é melhor levar só um deles adiante, concluir, e depois iniciar o outro. Assim, pode-se ter a chance de terminar um deles, arranjar um trabalho com a profissão obtida, até para custear um segundo curso.
+       </p>
+       </div>
+
+       <div><h2 id="sum7">Qual área eu devo seguir?</h2>
+        <small><a href="#top">(Voltar ao inicio)</a></small>
+       <p>Uma das primeiras preocupações do iniciante ou de quem está fazendo transição de carreira é sobre qual área deve seguir.
+
+        A programação tem tantas áreas e todas parecem tão legais e tão fáceis de dar dinheiro rápido que muita gente trava nessa escolha, sem saber qual área seguir ou se deve seguir várias. Ou todas!
+        
+        As áreas principais são: Frontend, Backend, Fullstack, Mobile, Dados, IA, Jogos, Cloud, Q&A, UX/UI, Infra e muitas outras subáreas. Ufa!
+        
+        Eu não vou explicar cada uma delas aqui, pois os cursos da própria já explicam tudo muito bem. Mesmo assim, de forma resumida:
+       </p>
+       </div>
+
+       <div><h2 id="sum8">Conclusão</h2>
+        <small><a href="#top">(Voltar ao inicio)</a></small>
+       <p>A partir da minha observação diária em grupos da DIO e em artigos publicados na DIO, eu vi postagens falando sobre planejamento de carreira e preocupação sobre por onde começar, se era obrigatório já saber matemática e que área seguir no início, se era necessário ter diploma de graduação e quais escolas escolher e me senti tentado a dar a minha opinião sobre o assunto e compartilhar a minha experiência de vida relacionada a estas escolhas.
+       </p>
+       <p>Resumindo o conteúdo deste artigo em tópicos:</p>
+       <ul>
+        <li>Saber matemática não é obrigatório, aliás a matemática exigida na programação é a básica do Ensino Médio, a não ser para áreas como jogos 3D e robótica;</li>
+       <li>Siga o fluxo básico e, quando a necessidade de usar a matemática aparecer, estude na hora certa;</li>
+        <li>O diploma de graduação ou certificação não é obrigatório para todas as áreas da programação, mas em algumas é importante e pode ser um grande diferencial para a contratação, principalmente em empresas globais de renome;</li>
+        <li>Caso você queira ter um diploma, comece a escolha da universidade ou faculdade pelas muitas alternativas de escolas federais de ensino gratuito, como as Universidades Federais (UFs) ou Institutos de Educação (IFs), antes de procurar por faculdades e universidades pagas;</li>
+        <li>Além disso, procure primeiro aquelas perto de onde você mora, não precisa se deslocar para o eixo Sul/Sudeste para encontrar bons cursos na área de programação/desenvolvimento;/li>
+            <li>Não recomendo fazer mais de um curso ao mesmo tempo, pois um tomará tempo do outro. É melhor fazer um primeiro e concluir, depois, caso deseje se especializar, faça outro ou, ainda melhor, uma pós-graduação que associe os dois cursos;</li>
+    </ul>
+        <p><del>Escolha a área que seja mais parecida com o que você gosta de fazer, aquela em que você trabalharia até de graça no futuro, se já tivesse salário garantido por outra fonte!</del></p>
+       </div>
+
+<h5>Compartilhe</h5>
+<h6>Comente</h6>
+</main>
+    
+</body>
+</html>
